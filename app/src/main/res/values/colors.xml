@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#f3f3f3</color>
+    <color name="light_gray">#E6E6E6</color>
+    <color name="lightblue">#913FA9F5</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="yellow">#ffff00</color>
+    <color name="orange">#ff8c00</color>
+    <color name="lightgreen">#10EEDF</color>
+    <color name="whitegraymix">#FCFCFC</color>
+    <color name="textPrimary">@color/white</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_background">@color/io_main3</color>
+    <color name="switch_on">#00FF00</color>
+    <color name="switch_off">#FF0000</color>
+    <color name="dark_grey">#E3DFE0</color>
+    <color name="appcolor">#8CEDEA</color>
+    <color name="bgcolor">#F0F8FF</color>
+    <!-- I/O color schemes -->
+    <color name="io_main1">#0E9AAD</color>
+    <color name="io_main2">#5D6ABF</color>
+    <color name="io_main3">#445963</color>
+    <color name="io_grays1">#EBEEF0</color>
+    <color name="io_grays2">#AFBDC4</color>
+    <color name="io_accent1">#FF5151</color>
+    <color name="io_accent2">#8CEDEA</color>
+    <color name="io_accent3">#4CCFE0</color>
+    <color name="io_accent4">#7BB241</color>
+    <color name="io_accent5">#FFC927</color>
+    <color name="io_accent6">#7885CA</color>
+    <color name="blue">#914492ff</color>
+    <color name="holo_light_blue_op">#ff33b5e5</color>
+</resources>

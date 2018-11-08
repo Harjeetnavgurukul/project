@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:bind="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="ratevm"
+            type="com.sorted.pro.mvvmodel.RatingViewModel" />
+    </data>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".fragement.RateFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+        <!--<include layout="@layout/content_fragment_rating"/>-->
+        <include
+            android:id="@+id/content_rating"
+            layout="@layout/content_fragment_rating"
+            bind:ratevm="@{ratevm}" />
+
+    </FrameLayout>
+</layout>
